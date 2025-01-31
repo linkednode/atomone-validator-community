@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| linkednode | https://stake.linkednode.xyz | https://x.com/linked_node | Indonesia | https://github.com/linkednode | linked.node09@gmail.com | linked.node | 4FB11BF7BDE4E88ECDAC99714DFF60CFB1FB0292647DBEAA8DDF022FDA0ACF33 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
